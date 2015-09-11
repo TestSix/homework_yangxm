@@ -1,26 +1,26 @@
-## adb1
+## adb1: install app on genymotion
 ![](pic/adb1.png)
 
-## adb2
+## adb2: check package name
 ![](pic/adb2.png)
 
-## adb3
+## adb3: using pull and push commands
 ![](pic/adb3.png)
 
-## adb4
+## adb4: view local shared files or DB
 ![](pic/adb4.png)
 
-## ddms1
+## ddms1: check package name
 ![](pic/ddms1.png)
 
-## ddms2
+## ddms2: view a scene of memory increase
 ![](pic/ddms2.png)
 
-## ddms3
+## ddms3: add a filter to view log
 ![](pic/ddms3.png)
 
-## hierarchyviewer1
+## hierarchyviewer1: view structure diagram
 ![](pic/hierarchyviewer1.png)
 
-## hierarchyviewer2
+## hierarchyviewer2: view the rendering performance of the control
 ![](pic/hierarchyviewer2.png)
